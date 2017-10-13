@@ -1,0 +1,168 @@
+В игре кликните "~" и набирайте доступные читы.
+Или кликните комбинацию "Ctrl + Alt + ~".
+"aviDemo" для записи вашей демки в avi файл,
+"benchmark" для теста скорости игры,
+"doomhell" для перехода на последний уровень,
+"freeze" остановить всех,
+"gfxinfo" для вывода инфы по граф. карте,
+"god" для бессмертия,
+"noclip" для прохождения через стены,
+"notarget" для невидимости противников,
+"com_drawfps 1" для вывода FPS,
+"give all" для полного боекомплекта,
+"give doom95" играть в старый дум,
+"give keys" для всех ключей,
+"give weapon_machinegun" для Machinegun,
+"give weapon_shotgun" для двустволки,
+"give weapon_plasmagun" для плазменной пушки,
+"give weapon_bfg" для BFG,
+"give weapon_chainsaw" для бензопилы,
+"give weapon_rocketlauncher" для ракетницы,
+"status" вывести статус игры,
+"map <имя>" открыть карту,
+"spawn <имя>" получить предмет,
+"quit" выход.
+Перечень имён карт
+marscity1.map - Mars City 1
+mcunderground.map - Mars Underground
+marscity2.map - Mars City 2
+admin.map - Administration
+alpha1.map - Alpha Labs Sector 1
+alpha2.map - Alpha Labs Sector 2
+alpha3.map - Alpha Labs Sector 3
+alpha4.map - Alpha Labs Sector 4
+enpro.map - EnPro Plant
+commout.map - Comm Transfer
+communications.map - Communications
+recycling1.map - Monorail Skybridge
+recycling2.map - Recycling Sector 2
+monorail.map - Monorail
+delta1.map - Delta Labs Level 1
+delta2a.map - Delta Labs Level 2A
+delta2b.map - Delta Labs Level 2B
+delta3.map - Delta Labs Level 3
+delta4.map - Delta Labs Level 4
+hell.map - Hell
+delta5.map - Delta Complex
+cpu1.map - CPU Complex
+cpuboss.map - Central Processing
+site3.map - Site 3
+caverns1.map - Caverns Area 1
+caverns2.map - Caverns Area 2
+hellhole.map - Primary Excavation
+Перечень предметов и монстров
+Flaming Zombie - monster_zombie_bernie
+Chainsaw Zombie - monster_zombie_sawyer
+Z-sec Zombie with machine gun - monster_zombie_zsec_machinegun
+Z-sec Zombie with pistol - monster_zombie_zsec_pistol
+Z-sec Zombie with shield - monster_zombie_zsec_shield
+Z-sec Zombie with shotgun - monster_zombie_zsec_shotgun
+Commando Zombie - monster_zombie_commando
+Commando Zombie with Chaingun - monster_zombie_commando_cgun
+Fat Zombie - monster_zombie_fat2
+Fat Zombie with wrench - monster_zombie_fat_wrench
+Bald Zombie - monster_zombie_maint_bald
+Zombie with no jaw - monster_zombie_maint_nojaw
+Zombie with Wrench - monster_zombie_maint_wrench
+Skinny Zombie - monster_zombie_maint_skinny
+Zombie - monster_zombie_maint
+Zombie - monster_zombie_maint2
+Zombie wth Flashlight - monster_zombie_ maint_flashlight
+Headless Zombie - monster_zombie_suit_neckstump
+Zombie - monster_zombie_suit_bloodymouth
+Skinny Zombie - monster_zombie_suit_skinny
+Zombie in Labcoat - monster_zombie_labcoat
+Zombie Missing Limb - monster_zombie_limb
+Zombie - monster_zombie_skinny
+Zombie with a pipe - monster_zombie_pipe
+Zombie in T-shirt - monster_zombie_tshirt_bald
+Zombie - monster_zombie_tshirt_blown
+Zombie in Jumpsuit - monster_zombie_jumpsuit
+Zombie Eating - monster_zombie_jumpsuit_eating
+Archvile - monster_demon_archvile
+Cherub - monster_demon_cherub
+Hellknight - monster_demon_hellknight
+Imp - monster_demon_imp
+Maggot - monster_demon_maggot
+Mancubus - monster_demon_mancubus
+Pinky - monster_demon_pinky
+Revenant - monster_demon_revenant
+Tick - monster_demon_tick
+Trite - monster_demon_trite
+Wraith - monster_demon_wraith
+Cyberdemon - monster_boss_cyberdemon
+Gaurdian - monster_boss_guardian
+Guardian's Seeker - monster_boss_guardian_seeker
+Sabaoth - monster_boss_sabaoth
+Vagary - monster_boss_Vagary
+Ещё читы
+_use parsewait game_memory
+_moveRight printShader in_restart
+_moveLeft printMode kill
+_moveDown playDemo killRagdolls
+_forward playCmdDemo killMoveables
+_back playerModel killMonsters
+_right prevanim keepTestModel
+_left reload listModels
+_lookDown reloadSounds listSkins
+_lookUp reloadSoundShaders listMaterials
+_attack reloadFx listImages
+_moveUp reloadanims listModes
+_speed reexportmodels listLightDefs
+_strafe removeline listEntityDefs
+_button7 runReach listMonsters
+_button6 runAAS listEntities
+_button5 recordCmdDemo listThreads
+_button4 recordDemo listSounds
+_button3 recordCmdDemo listAnims
+_button2 recordDemo listCollisionModels
+_button1 renderbumpFlat listlines
+_button0 renderbump listVertexCache
+aasStats roq map
+addarrow reloadGuis modulateLights
+addline reset noclip
+blinkline regenerateWorld notarget
+bindlist reloadImages nextanim
+bind reloadShaders overlayGUI
+centerview reloadModels path
+compressDemo script poplight
+connect reloadEntityDefs toggle
+clearlights s_musictrack testSIMD
+conDump s_cacheInvalidate touchMaterial
+clear s_cacheInfo testFx
+cvar_restart s_restart touchSound
+cvarlist seta listSoundShaders
+combineCubeImages set touchParticle
+crash spawn testDamage
+collisionModelInfo setviewpos testblend
+dirtyfeet setStepGamma testanim
+dir setu testParticle
+demoShot sets testModel
+disconnect sizeDown testWipe
+dmap sizeUp testGUI
+echo screenshot timeDemo
+envshot spawnServer testmap
+exec stopRecording touchSkin
+exportmodels say touchModel
+editSounds testTrace unbind
+editLight testImage unbindall
+editor testShader vid_restart
+error testBump vstr
+fillrate testLight writeConfig
+flashlight touchFx writePrecache
+focusSoundsEditor touchGui weapon
+give touchFile weapnext
+where weapprev weaponSplat
+Чтобы сразу стартовать с тяжёлого уровня, отыщем файл "doomconfig.cfg" и поменяйте в нем строчку
+seta g_nightmare "0" на seta g_nightmare "1"
+Настройки игры
+r_gamma 3 <- прибавить к гамме
+r_brightness 0
+seta g_showPlayerShadow "0" <- убрать тeни персонажа,
+seta g_showPlayerShadow "1" <- добавить тeни персонажа.
+Сменить вид
+bind "p" "toggle pm_thirdperson"
+Карты
+map testmaps/testmaps_lotsaimps.map
+map testmaps/test_box.map
+map testmaps/test_boxstack.map

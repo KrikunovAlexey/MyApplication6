@@ -1,0 +1,86 @@
+ 
+Ñîmmànd & Ñînquer: Generàls: Zerî Íîur
+ 
+Bce çoëoòûe ìeäaëè:
+×òoáû ïoëy÷èòü âce çoëoòûe ìeäaëè íaéäèòe ôaéë SkirmishStats.ini
+â ïaïêe Moè äoêyìeíòû\Command and Conquer Generals Zero Hour Data
+(ía âcÿêèé cëy÷aé coçäaéòe eão peçepâíyş êoïèş).
+
+Óäaëèòe èç íeão âce çaïècè è âcòaâüòe ıòè:
+
+
+BestWinStreak = 10014
+CHINACampaign_0 = 1
+CHINACampaign_1 = 1
+CHINACampaign_2 = 1
+Challenge = 23
+ChallengeCampaign0_0 = 1
+ChallengeCampaign0_1 = 1
+ChallengeCampaign0_2 = 1
+GLACampaign_0 = 1
+GLACampaign_1 = 1
+GLACampaign_2 = 1
+Honors = 1661992959
+LastHouse = GLAToxinGeneral
+Losses = 0
+LoyalGames = 0
+Nuke = 1
+PPC = 1
+SCUD = 1
+USACampaign_0 = 1
+USACampaign_1 = 1
+USACampaign_2 = 1
+WinStreak = 10014
+Wins = 10014
+maps\alpine assault\alpine assault.map_4 = 1
+maps\barrenbadlands\barrenbadlands.map_4 = 1
+maps\bear town beatdown\bear town beatdown.map_4 = 3
+maps\bitter winter\bitter winter.map_4 = 1
+maps\bombardment beach\bombardment beach.map_4 = 1
+maps\cairo commandos\cairo commandos.map_4 = 2
+maps\dark mountain\dark mountain.map_4 = 3
+maps\dark night\dark night.map_4 = 3
+maps\desert fury\desert fury.map_4 = 1
+maps\destruction station\destruction station.map_4 = 7
+maps\dust devil\dust devil.map_4 = 1
+maps\eastern everglades\eastern everglades.map_4 = 3
+maps\el scorcho\el scorcho.map_4 = 3
+maps\fallen empire\fallen empire.map_4 = 3
+maps\final crusade\final crusade.map_4 = 1
+maps\flash effect\flash effect.map_4 = 2
+maps\flash fire\flash fire.map_4 = 1
+maps\fortress avalanche\fortress avalanche.map_4 = 7
+maps\free fire zone\free fire zone.map_4 = 5
+maps\golden oasis\golden oasis.map_4 = 3
+maps\green pastures\green pastures.map_4 = 5
+maps\heartland shield\heartland shield.map_4 = 1
+maps\homeland alliance\homeland alliance.map_4 = 3
+maps\killing fields\killing fields.map_4 = 1
+maps\leipzig lowlands\leipzig lowlands.map_4 = 1
+maps\lights out\lights out.map_4 = 3
+maps\lone eagle\lone eagle.map_4 = 3
+maps\mountain guns\mountain guns.map_4 = 4
+maps\overland\overland.map_4 = 3
+maps\rocky rampage\rocky rampage.map_4 = 3
+maps\rogue agent\rogue agent.map_4 = 3
+maps\sand serpent\sand serpent.map_4 = 1
+maps\silent river\silent river.map_4 = 1
+maps\tournament city\tournament city.map_4 = 5
+maps\tournament continent\tournament continent.map_4 = 3
+maps\tournament desert\tournament desert.map_4 = 1
+maps\tournament island\tournament island.map_4 = 3
+maps\tournament lake\tournament lake.map_4 = 3
+maps\tournament plains\tournament plains.map_4 = 1
+maps\tournament tundra\tournament tundra.map_4 = 3
+maps\tournament urban\tournament urban.map_2 = 1
+maps\tournament urban\tournament urban.map_4 = 3
+maps\twilight flame\twilight flame.map_4 = 7
+maps\victory valley\victory valley.map_4 = 3
+maps\wasteland warlords\wasteland warlords.map_4 = 1
+maps\whiteout\whiteout.map_4 = 7
+maps\winding river\winding river.map_4 = 1
+maps\winter wolf\winter wolf.map_4 = 1
+
+
+Teïepü coxpaíèòe è çaïycêaéòe Zero Hour è y âac áyäyò âce çoëoòûe ìeäaëè.
+
